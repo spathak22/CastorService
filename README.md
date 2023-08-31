@@ -1,6 +1,5 @@
 # CastorService
 A simple web service to expose Castor relational learning system over REST
 
-## CastorService
-Castor implementation
+## Castor Implementation
 https://github.com/jpicado/Castor
