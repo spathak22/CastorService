@@ -1,5 +1,5 @@
 # CastorService
-A simple web service to expose Castor Runner over REST
+A simple web service to expose Castor relational learning system over REST
 
 ## CastorService
 Castor implementation
